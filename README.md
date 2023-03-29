@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2>👋🏼 Hi, I'm Stephanie!</h2>
+  
+## About Me
 
-<!--
-**stephnicoledev/stephnicoledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏻‍🏫 java software development bootcamp student @ tech elevator
+- ☕ coffee enthusiast
+- 📚 avid reader | <em>currently reading: tomorrow, and tomorrow, and tomorrow by gabrielle zevin</em>
+- 🧘🏻‍♀️ yogi @ a local vinyasa studio
+- 🐾 dog mom to a 6yr old coonhound mix
+- 🏀 go celtics!
+- 🥔 hobbit at heart
+- 👩🏻‍🏫 lifelong learner
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=css,express,figma,git,html,java,js,mongodb,nodejs,postgres,spring,vue)](https://skillicons.dev)v
