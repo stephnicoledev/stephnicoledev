@@ -13,4 +13,4 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=css,express,figma,git,html,java,js,mongodb,nodejs,postgres,spring,vue)](https://skillicons.dev)v
+[![My Skills](https://skillicons.dev/icons?i=css,express,figma,git,html,java,js,mongodb,nodejs,postgres,spring,vue)](https://skillicons.dev)
