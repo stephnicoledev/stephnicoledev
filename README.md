@@ -4,7 +4,7 @@
 
 - 👩🏻‍🏫 java software development bootcamp student @ tech elevator
 - ☕ coffee enthusiast
-- 📚 avid reader | <em>currently reading: in a dark, dark wood by ruth ware</em>
+- 📚 avid reader | <em>currently reading: the wife upstairs by rachel hawkins</em>
 - 🧘🏻‍♀️ yogi @ a local vinyasa studio
 - 🐾 dog mom to a 6yr old coonhound mix
 - 🏀 go celtics!
