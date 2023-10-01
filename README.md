@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=7229F7&vCenter=true&width=600&lines=Software+Engineer+%E2%9A%99%EF%B8%8F;Yogi+%F0%9F%A7%98%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;Bookworm+%F0%9F%93%96;Art-History+Enthusiast+%F0%9F%96%BC%EF%B8%8F;Celtics+Fan+%F0%9F%8F%80;Dog+Mom+%F0%9F%90%BE;Coffee+Lover+%E2%98%95)](https://git.io/typing-svg)
 
-Marketing professional turned software engineer with a passion for technological innovation. I draw upon my six years of marketing experience to build efficient solutions to complex problems that positively impact user experience. My favorite part about software engineering is being able to utilize creativity 🎨 and logic 🧠 when developing applications. I'd love to bring these skills to a tech company with a growth mindset and global reach.
+Marketing professional turned software engineer with a passion for technological innovation and customer service. I draw upon my six years of marketing experience to build efficient solutions to complex problems that positively impact the user experience. I'd love to bring these skills to a tech company with a growth mindset and global reach.
 <br><br>
-When I’m not coding, I enjoy practicing yoga at my local studio, hiking with my dog, or reading a mystery novel at the coffee shop!
+My favorite part about software engineering is being able to embrace my creativity 🎨 and continuously learn by problem-solving 🧠.
 
 ### Currently working on:
 <ul>
   <li>A personalized book catalog application that allows users to track what they're reading and stores book in their collection. Built with <strong>Java</strong>, <strong>PostgreSQL</strong>, <strong>Spring Boot</strong>.</li>
-  <li>HydroGarden, a front-end application that ensures you stay hydrated daily by tracking water intake. Built with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.</li>
-  <li>A CRUD application that tracks a user's reps, sets, and weights during a workout with the goal of progressive overload. Built with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.</li>
+  <li>HydroGarden, a JavaScript application that ensures the user stays hydrated by tracking daily water intake based on a custom goal.</li>
+  <li>A JavaScript CRUD application that lets a user create custom workout plans and log reps, sets, and weights to track progressive overload.</li>
 </ul>
 
 ### Daily:
