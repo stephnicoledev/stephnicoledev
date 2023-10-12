@@ -10,7 +10,6 @@ My favorite part about software engineering is being able to embrace my creativi
 <ul>
   <li>A todo list application to practice DOM manipulation. Built with <strong>JavaScript</strong>.</li>
   <li>A personalized book catalog application that allows users to track what they're reading and stores book in their collection. Built with <strong>Java</strong>, <strong>PostgreSQL</strong>, <strong>Spring Boot</strong>.</li>
-  <li>HydroGarden, a JavaScript application that ensures the user stays hydrated by tracking daily water intake based on a custom goal.</li>
   <li>A JavaScript CRUD application that lets a user create custom workout plans and log reps, sets, and weights to track progressive overload.</li>
 </ul>
 
