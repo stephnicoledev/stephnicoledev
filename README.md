@@ -42,24 +42,24 @@ My favorite part about software engineering is being able to embrace my creativi
         <p align="center"><a href="https://github.com/stephnicoledev/task-board"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
       <td width="50%" v-align="top">
+        <a href="https://github.com/stephnicoledev/hydro-garden"><img src="https://github.com/stephnicoledev/hydro-garden/raw/master/demo.png"/></a>
+        <h3 dir="auto" align="center">HydroGarden</h3>
+        <p align="center">HydroGarden is a water-tracking application that ensures you stay hydrated daily!</p>
+        <p align="center"><a href="https://github.com/stephnicoledev/hydro-garden"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+      </td>
+    </tr>
+    <tr width="100%">
+      <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/testimonials"><img src="https://github.com/stephnicoledev/testimonials/raw/main/design/desktop-design.jpg"/></a>
         <h3 dir="auto" align="center">Testimonials</h3>
         <p align="center">A responsive testimonials page to practice CSS Grid.</p>
         <p align="center"><a href="https://github.com/stephnicoledev/testimonials"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
-    </tr>
-    <tr width="100%">
       <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/order-summary"><img src="https://github.com/stephnicoledev/order-summary/raw/main/design/desktop-design.jpg"/></a>
         <h3 dir="auto" align="center">Order Summary</h3>
         <p align="center">A responsive order summary page for a product.</p>
         <p align="center"><a href="https://github.com/stephnicoledev/order-summary"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
-      </td>
-      <td width="50%" v-align="top">
-        <a href="https://github.com/stephnicoledev/mtg-planeswalker"><img src="https://github.com/stephnicoledev/mtg-planeswalker/raw/master/assets/MTG_Preview.png"/></a>
-        <h3 dir="auto" align="center">Magic: The Gathering - Select Your Planeswalker</h3>
-        <p align="center">A responsive application for new fans to discover some of Magic: The Gathering's famous planeswalkers.</p>
-        <p align="center"><a href="https://github.com/stephnicoledev/mtg-planeswalker"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
     </tr>
   </tbody>
