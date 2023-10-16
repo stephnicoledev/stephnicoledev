@@ -34,11 +34,11 @@ My favorite part about software engineering is being able to embrace my creativi
       </td>
     </tr>
     <tr width="100%">
-            <td width="50%" v-align="top">
-        <a href="https://github.com/stephnicoledev/task-board"><img src="https://github.com/stephnicoledev/task-board/raw/main/Board_Preview.png"/></a>
-        <h3 dir="auto" align="center">Task Board</h3>
-        <p align="center">A task board similar to Trello that depicts a house-building project at various stages using cards.</p>
-        <p align="center"><a href="https://github.com/stephnicoledev/task-board"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+      <td width="50%" v-align="top">
+        <a href="https://github.com/stephnicoledev/exchange-rate-calc"><img src="https://github.com/stephnicoledev/exchange-rate-calc/raw/main/demo.png"/></a>
+        <h3 dir="auto" align="center">Exchange Rate Calculator</h3>
+        <p align="center">An exchange rate calculator that converts global currencies to produce accurate foreign exchange rates using a third party API.</p>
+        <p align="center"><a href="https://github.com/stephnicoledev/exchange-rate-calc"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
       <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/hydro-garden"><img src="https://github.com/stephnicoledev/hydro-garden/raw/master/demo.png"/></a>
@@ -49,11 +49,19 @@ My favorite part about software engineering is being able to embrace my creativi
     </tr>
     <tr width="100%">
       <td width="50%" v-align="top">
+        <a href="https://github.com/stephnicoledev/task-board"><img src="https://github.com/stephnicoledev/task-board/raw/main/Board_Preview.png"/></a>
+        <h3 dir="auto" align="center">Task Board</h3>
+        <p align="center">A task board similar to Trello that depicts a house-building project at various stages using cards.</p>
+        <p align="center"><a href="https://github.com/stephnicoledev/task-board"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+      </td>
+      <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/testimonials"><img src="https://github.com/stephnicoledev/testimonials/raw/main/design/desktop-design.jpg"/></a>
         <h3 dir="auto" align="center">Testimonials</h3>
         <p align="center">A responsive testimonials page to practice CSS Grid.</p>
         <p align="center"><a href="https://github.com/stephnicoledev/testimonials"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
+    </tr>
+    <tr width="100%">
       <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/order-summary"><img src="https://github.com/stephnicoledev/order-summary/raw/main/design/desktop-design.jpg"/></a>
         <h3 dir="auto" align="center">Order Summary</h3>
