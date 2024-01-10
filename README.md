@@ -6,20 +6,10 @@ Marketing professional turned software engineer with a passion for technological
 <br><br>
 My favorite part about software engineering is being able to embrace my creativity 🎨 and continuously learn by problem-solving 🧠.
 
-### Currently working on:
-<ul>
-  <li>A personalized book catalog application that allows users to track what they're reading and stores book in their collection. Built with <strong>Java</strong>, <strong>PostgreSQL</strong>, <strong>Spring Boot</strong>.</li>
-  <li>A JavaScript CRUD application that lets a user create custom workout plans and log reps, sets, and weights to track progressive overload.</li>
-</ul>
 
-### Daily:
-<ul>
-  <li>Java coding challenges on CodingBat 🦇</li>
-  <li>JavaScript coding challenges on CodeWars 🥋</li>
-</ul>
 
 ### Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,js,postgresql,html,css,vue,spring,git,gitlab,postman,figma,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,typescript,postgresql,html,css,vue,spring,git,gitlab,postman,figma,visualstudio)](https://skillicons.dev)
 
 ### Projects:
 <table width="100%">
