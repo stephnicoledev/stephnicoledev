@@ -16,7 +16,7 @@ My favorite part about software engineering is being able to embrace my creativi
   <tbody>
     <tr width="100%">
       <td width="50%" v-align="top">
-        <a href="https://github.com/yuneKim/bug-wars-client"><img src="https://github.com/stephnicoledev/stephnicoledev/assets/26665747/e043e105-a74b-46ec-b8d6-f088245e142b"/></a>
+        <a href="https://github.com/yuneKim/bug-wars-client"><img src="https://github.com/stephnicoledev/stephnicoledev/assets/26665747/e043e105-a74b-46ec-b8d6-f088245e142b" width="600px"/></a>
         <h3 dir="auto" align="center">Bug Wars</h3>
         <p align="center">Bug Wars allows you to create your own bug army and lead it to victory over enemy swarms. Write a script in an assembly-like language to give your bugs their own unique behavior. Explore, fight, and eat your way to swarm superiority in a variety of different battlegrounds!</p>
         <p align="center"><a href="https://github.com/yuneKim/bug-wars-client"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
