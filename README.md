@@ -15,42 +15,40 @@ My favorite part about software engineering is being able to embrace my creativi
 <table width="100%">
   <tbody>
     <tr width="100%">
-      <td width="100%" colspan="2" v-align="top">
-        <h3 dir="auto" align="center">Bookstore</h3>
-        <p align="center">This is a <strong>Java</strong> application that enables the user to purchase media items (books, movies, and music) from a local bookstore, Books & Beans.</p>
-        <p align="center"><a href="https://github.com/stephnicoledev/book-store"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
-      </p>
+      <td width="50%" v-align="top">
+        <a href="https://github.com/yuneKim/bug-wars-client"><img src="https://github.com/stephnicoledev/stephnicoledev/assets/26665747/e043e105-a74b-46ec-b8d6-f088245e142b"/></a>
+        <h3 dir="auto" align="center">Bug Wars</h3>
+        <p align="center">Bug Wars allows you to create your own bug army and lead it to victory over enemy swarms. Write a script in an assembly-like language to give your bugs their own unique behavior. Explore, fight, and eat your way to swarm superiority in a variety of different battlegrounds!</p>
+        <p align="center"><a href="https://github.com/yuneKim/bug-wars-client"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
-    </tr>
-    <tr width="100%">
       <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/exchange-rate-calc"><img src="https://github.com/stephnicoledev/exchange-rate-calc/raw/main/demo.png"/></a>
         <h3 dir="auto" align="center">Exchange Rate Calculator</h3>
         <p align="center">An exchange rate calculator that converts global currencies to produce accurate foreign exchange rates using a third party API.</p>
         <p align="center"><a href="https://github.com/stephnicoledev/exchange-rate-calc"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
+    </tr>
+    <tr width="100%">
       <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/hydro-garden"><img src="https://github.com/stephnicoledev/hydro-garden/raw/master/demo.png"/></a>
         <h3 dir="auto" align="center">HydroGarden</h3>
         <p align="center">HydroGarden is a water-tracking application that ensures you stay hydrated daily!</p>
         <p align="center"><a href="https://github.com/stephnicoledev/hydro-garden"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
-    </tr>
-    <tr width="100%">
       <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/task-board"><img src="https://github.com/stephnicoledev/task-board/raw/main/Board_Preview.png"/></a>
         <h3 dir="auto" align="center">Task Board</h3>
         <p align="center">A task board similar to Trello that depicts a house-building project at various stages using cards.</p>
         <p align="center"><a href="https://github.com/stephnicoledev/task-board"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
-      <td width="50%" v-align="top">
+    </tr>
+    <tr width="100%">
+            <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/testimonials"><img src="https://github.com/stephnicoledev/testimonials/raw/main/design/desktop-design.jpg"/></a>
         <h3 dir="auto" align="center">Testimonials</h3>
         <p align="center">A responsive testimonials page to practice CSS Grid.</p>
         <p align="center"><a href="https://github.com/stephnicoledev/testimonials"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
       </td>
-    </tr>
-    <tr width="100%">
       <td width="50%" v-align="top">
         <a href="https://github.com/stephnicoledev/order-summary"><img src="https://github.com/stephnicoledev/order-summary/raw/main/design/desktop-design.jpg"/></a>
         <h3 dir="auto" align="center">Order Summary</h3>
